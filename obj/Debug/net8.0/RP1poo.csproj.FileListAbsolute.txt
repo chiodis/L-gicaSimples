@@ -1,0 +1,14 @@
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.AssemblyInfoInputs.cache
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.AssemblyInfo.cs
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.csproj.CoreCompileInputs.cache
+C:\Lucas chiodi\RP1poo\bin\Debug\net8.0\RP1poo.exe
+C:\Lucas chiodi\RP1poo\bin\Debug\net8.0\RP1poo.deps.json
+C:\Lucas chiodi\RP1poo\bin\Debug\net8.0\RP1poo.runtimeconfig.json
+C:\Lucas chiodi\RP1poo\bin\Debug\net8.0\RP1poo.dll
+C:\Lucas chiodi\RP1poo\bin\Debug\net8.0\RP1poo.pdb
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.dll
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\refint\RP1poo.dll
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.pdb
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\RP1poo.genruntimeconfig.cache
+C:\Lucas chiodi\RP1poo\obj\Debug\net8.0\ref\RP1poo.dll

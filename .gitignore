@@ -1,0 +1,7 @@
+# remover binarios      
+bin/
+obj/
+
+# removendo 
+RP1poo.csproj
+RP1poo.sln

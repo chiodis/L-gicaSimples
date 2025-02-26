@@ -1,0 +1,14 @@
+C:\Lucas chiodi\estudar\bin\Debug\net8.0\estudar.exe
+C:\Lucas chiodi\estudar\bin\Debug\net8.0\estudar.deps.json
+C:\Lucas chiodi\estudar\bin\Debug\net8.0\estudar.runtimeconfig.json
+C:\Lucas chiodi\estudar\bin\Debug\net8.0\estudar.dll
+C:\Lucas chiodi\estudar\bin\Debug\net8.0\estudar.pdb
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.AssemblyInfoInputs.cache
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.AssemblyInfo.cs
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.csproj.CoreCompileInputs.cache
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.dll
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\refint\estudar.dll
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.pdb
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\estudar.genruntimeconfig.cache
+C:\Lucas chiodi\estudar\obj\Debug\net8.0\ref\estudar.dll
